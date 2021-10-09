@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633771398 source:c:\users\manvi\desktop\fastrack_c_6789_assignment\assignment_c_day8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

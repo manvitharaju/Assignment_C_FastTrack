@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631726157 source:c:\users\manvitha\desktop\manipal_fasttrack_c\electricity_bill\main.c
+	<stdio.h>
+	<stdlib.h>
+

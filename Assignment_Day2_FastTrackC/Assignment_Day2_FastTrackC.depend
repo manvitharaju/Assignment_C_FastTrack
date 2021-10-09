@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1631643271 source:c:\users\manvitha\desktop\manipal_fasttrack_c\assignment_day2_fasttrackc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Assignment_Day2.h"
+	<assert.h>
+
+1631643263 c:\users\manvitha\desktop\manipal_fasttrack_c\assignment_day2_fasttrackc\assignment_day2.h
+
+1631723248 source:c:\users\manvitha\desktop\manipal_fasttrack_c\assignment_day2_fasttrackc\assignment_day2.c
+	"Assignment_Day2.h"
+
+1631643271 source:c:\users\manvi\desktop\manipal_fasttrack_c\assignment_day2_fasttrackc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Assignment_Day2.h"
+	<assert.h>
+
+1631643263 c:\users\manvi\desktop\manipal_fasttrack_c\assignment_day2_fasttrackc\assignment_day2.h
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1631554955 source:c:\users\manvitha\desktop\manipal_fasttrack_c\assignment_fasttrack_c\assignment_func.c
+	"assignment_header.h"
+	<math.h>
+
+1631554468 c:\users\manvitha\desktop\manipal_fasttrack_c\assignment_fasttrack_c\assignment_header.h
+
+1631554961 source:c:\users\manvitha\desktop\manipal_fasttrack_c\assignment_fasttrack_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"assignment_header.h"
+	"assert.h"
+

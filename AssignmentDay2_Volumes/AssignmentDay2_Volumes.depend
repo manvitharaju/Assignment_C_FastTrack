@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1631644606 source:c:\users\manvitha\desktop\manipal_fasttrack_c\assignmentday2_volumes\volumes.c
+
+1631721993 source:c:\users\manvitha\desktop\manipal_fasttrack_c\assignmentday2_volumes\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1631725244 source:c:\users\manvi\desktop\manipal_fasttrack_c\assignmentday2_volumes\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1631644606 source:c:\users\manvi\desktop\manipal_fasttrack_c\assignmentday2_volumes\volumes.c
+
+1631725244 source:c:\users\manvi\desktop\manipal_fasttrack_c_day1,2,3\assignmentday2_volumes\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1631644606 source:c:\users\manvi\desktop\manipal_fasttrack_c_day1,2,3\assignmentday2_volumes\volumes.c
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1632851817 source:c:\users\manvi\desktop\fastrack_c_45_assignment\assignment_day5_matrices\matrice.c
+
+1632851807 source:c:\users\manvi\desktop\fastrack_c_45_assignment\assignment_day5_matrices\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1633701043 source:c:\users\manvi\desktop\fastrack_c_45_assignment\day9\assignment_day9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"files.h"
+
+1633700508 c:\users\manvi\desktop\fastrack_c_45_assignment\day9\assignment_day9\files.h
+
+1633701586 source:c:\users\manvi\desktop\fastrack_c_45_assignment\day9\assignment_day9\files.c
+	"files.h"
+	<stdlib.h>
+	<stdio.h>
+

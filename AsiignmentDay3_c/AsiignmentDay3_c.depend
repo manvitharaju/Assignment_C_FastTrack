@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1631758048 source:c:\users\manvitha\desktop\manipal_fasttrack_c\asiignmentday3_c\assignday3.c
+	"assignDay3.h"
+
+1631758037 c:\users\manvitha\desktop\manipal_fasttrack_c\asiignmentday3_c\assignday3.h
+
+1631758035 source:c:\users\manvitha\desktop\manipal_fasttrack_c\asiignmentday3_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"assert.h"
+
+1632293597 source:c:\users\manvi\desktop\manipal_fasttrack_c\asiignmentday3_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"assert.h"
+
+1632464305 source:c:\users\manvi\desktop\manipal_fasttrack_c\asiignmentday3_c\assignday3.c
+	"assignDay3.h"
+	"math.h"
+
+1632154052 c:\users\manvi\desktop\manipal_fasttrack_c\asiignmentday3_c\assignday3.h
+
